@@ -34,6 +34,6 @@ body {
     color: blue;
 }
 
-h1, h2, p {
+h1, h2, p, li {
     text-align: center;
 }
