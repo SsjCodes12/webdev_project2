@@ -5,8 +5,9 @@ body {
 }
 
 #navbar {
-    background-color: #333;
+    background-color: aqua;
     text-align: center;
+    padding: 10px 0;
 }
 
 #nav-list {
@@ -16,14 +17,13 @@ body {
     display: inline-block;
 }
 
-#nav-list ul {
-    display: inline-block;
+#nav-list li {
+    display: inline;
 }
 
 #nav-list a {
-    display: block;
-    color: rgb(122, 240, 255);
-    text-align: center;
+    display: inline-block;
+    color: black;
     padding: 14px 20px; 
     text-decoration: none;
     text-align: center;
@@ -31,4 +31,5 @@ body {
 
 #nav-list a:hover {
     background-color: #575757;
+    color: blue;
 }
