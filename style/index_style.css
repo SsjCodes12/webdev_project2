@@ -33,3 +33,7 @@ body {
     background-color: #575757;
     color: blue;
 }
+
+h1, h2, p {
+    text-align: center;
+}
