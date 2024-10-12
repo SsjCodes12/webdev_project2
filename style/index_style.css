@@ -17,15 +17,16 @@ body {
 }
 
 #nav-list li {
-    display: inline;
+    display: inline-block;
 }
 
 #nav-list a {
-    display: inline-block;
+    display: block;
     color: rgb(122, 240, 255);
     text-align: center;
     padding: 14px 20px; 
     text-decoration: none;
+    text-align: center;
 }
 
 #nav-list a:hover {
