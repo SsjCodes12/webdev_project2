@@ -13,3 +13,18 @@ body {
     list-style-type:none
     padding: 0;
 }
+
+.nav-list li {
+    flex: 1;
+}
+
+.nav-list a {
+    display:block
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.nav-list a:hover {
+    background-color: aqua;
+}
