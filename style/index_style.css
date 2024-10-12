@@ -1,17 +1,19 @@
 body {
-    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 .navbar {
-    background-color: rgba(30, 194, 206, 0.973);
+    background-color: #333;
     overflow: hidden;
 }
 
 .nav-list {
-    list-style-type:none
+    list-style-type: none;
+    margin: 0;
     padding: 0;
+    display: flex;
 }
 
 .nav-list li {
@@ -19,12 +21,13 @@ body {
 }
 
 .nav-list a {
-    display:block
-    padding: 14px 16px;
+    display: block;
+    color: rgb(122, 240, 255);
+    text-align: center;
+    padding: 14px 16px; 
     text-decoration: none;
-
 }
 
 .nav-list a:hover {
-    background-color: aqua;
+    background-color: #575757;
 }
