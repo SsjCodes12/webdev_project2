@@ -4,23 +4,23 @@ body {
     padding: 0;
 }
 
-.navbar {
+#navbar {
     background-color: #333;
     text-align: center;
 }
 
-.nav-list {
+#nav-list {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: inline-block;
 }
 
-.nav-list li {
+#nav-list li {
     display: inline;
 }
 
-.nav-list a {
+#nav-list a {
     display: inline-block;
     color: rgb(122, 240, 255);
     text-align: center;
@@ -28,6 +28,6 @@ body {
     text-decoration: none;
 }
 
-.nav-list a:hover {
+#nav-list a:hover {
     background-color: #575757;
 }
