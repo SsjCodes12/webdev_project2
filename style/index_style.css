@@ -10,18 +10,18 @@ body {
     padding: 10px 0;
 }
 
-#nav-list {
+#navbar-list {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: inline-block;
 }
 
-#nav-list li {
+#navbar-list li {
     display: inline;
 }
 
-#nav-list a{
+#navbar-list a{
     display: inline-block;
     color: black;
     padding: 14px 20px; 
@@ -29,9 +29,17 @@ body {
     text-align: center;
 }
 
-#nav-list a:hover {
+#navbar-list a:hover {
     background-color: #575757;
     color: blue;
+}
+
+#content {
+   
+}
+#content-list {
+    text-decoration: none;
+    text-align: center;
 }
 
 h1, h2, p,{
