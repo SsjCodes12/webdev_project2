@@ -21,7 +21,7 @@ body {
     display: inline;
 }
 
-#nav-list a {
+#nav-list ul, a {
     display: inline-block;
     color: black;
     padding: 14px 20px; 
@@ -34,6 +34,6 @@ body {
     color: blue;
 }
 
-h1, h2, p, li {
+h1, h2, p,{
     text-align: center;
 }
