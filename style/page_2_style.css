@@ -4,25 +4,25 @@ body {
     padding: 0;
 }
 
-.navbar {
+#navbar {
     background-color: aqua;
     text-align: center;
     padding: 10px 0;
 }
 
-.nav-list {
+#nav-list {
     list-style-type: none;
     margin: 0;
     padding: 0; 
     display: inline-block;
 }
 
-.nav-list li {
+#nav-list li {
     display: inline;
     margin: 0 15px; 
 }
 
-.nav-list a {
+#nav-list a {
     display: inline-block;
     color: black;
     padding: 10px 15px;
@@ -30,12 +30,12 @@ body {
     text-align: center;
 }
 
-.nav-list a:hover {
+#nav-list a:hover {
     background-color: #ffffff;
     color: rgb(0, 0, 0);
 }
 
-.main-content {
+#main-content {
     text-align: center;
     padding: 20px;
 }
@@ -44,12 +44,12 @@ h1, h2, p {
     margin: 20px 0;
 }
 
-.image-container {
+#image-container {
     max-width: 800px;
     margin: 0 auto;
 }
 
-.image-container img {
+#image-container img {
     width: 100%;
     max-width: 100%;
     height: auto;
