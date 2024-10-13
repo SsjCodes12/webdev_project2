@@ -45,8 +45,11 @@ h1, h2, p {
 }
 
 .image-container {
-    width: 2000px;
-    height: 1500px;
     margin: auto;
     text-align: center;
+}
+
+.image {
+    width: 2000;
+    height: auto;
 }
