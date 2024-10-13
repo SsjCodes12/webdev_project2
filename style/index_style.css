@@ -4,15 +4,12 @@ body {
     padding: 0;
 }
 
-#navbar {
+#navbar ul, li {
     background-color: aqua;
     text-align: center;
     padding: 10px 0;
 }
 
-#navbar ul {
-text-align: center;
-}
 #nav-list {
     list-style-type: none;
     margin: 0;
