@@ -17,11 +17,11 @@ body {
     display: inline-block;
 }
 
-#navbar-list li {
+#nav li {
     display: inline;
 }
 
-#navbar-list a{
+#nav a{
     display: inline-block;
     color: black;
     padding: 14px 20px; 
@@ -29,7 +29,7 @@ body {
     text-align: center;
 }
 
-#navbar-list a:hover {
+#nav a:hover {
     background-color: #575757;
     color: blue;
 }
