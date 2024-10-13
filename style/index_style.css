@@ -5,7 +5,7 @@ body {
 }
 
 .navbar {
-    background-color: transparent;
+    background-color: aqua;
     text-align: center;
     padding: 10px 0;
 }
@@ -31,8 +31,8 @@ body {
 }
 
 .nav-list a:hover {
-    background-color: #00bfff;
-    color: white;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
 }
 
 .main-content {
