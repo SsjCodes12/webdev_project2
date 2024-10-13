@@ -45,7 +45,6 @@ h1, h2, p {
 }
 
 img {
-    size: 900px;
-    text-align: center;
+    size: 70%;
     margin: auto;
 }
