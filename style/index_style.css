@@ -10,6 +10,9 @@ body {
     padding: 10px 0;
 }
 
+#navbar ul {
+text-align: center;
+}
 #nav-list {
     list-style-type: none;
     margin: 0;
@@ -21,7 +24,7 @@ body {
     display: inline;
 }
 
-#nav-list ul, a {
+#nav-list a{
     display: inline-block;
     color: black;
     padding: 14px 20px; 
