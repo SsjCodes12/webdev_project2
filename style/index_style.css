@@ -61,3 +61,8 @@ h2, p, {
 h1 {
     text-align: center;
 }
+
+#page-wrapper {
+width: 960px;
+margin: 0 auto;
+}
