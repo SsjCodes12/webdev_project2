@@ -38,6 +38,7 @@ body {
 ul {
     text-align: center;
     margin: auto;
+    text-decoration: none;
 }
 
 .nav-list a:hover {
