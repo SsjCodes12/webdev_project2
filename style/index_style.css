@@ -4,11 +4,6 @@ body {
     padding: 0;
 }
 
-.page-wrapper {
-    width: 960px;
-    margin: 0 auto;
-}
-
 .navbar {
     background-color: aqua;
     text-align: center;
@@ -33,6 +28,11 @@ body {
     padding: 10px 15px;
     text-decoration: none;
     text-align: center;
+}
+
+.page-wrapper ul{
+    width: 960px;
+    margin: 0 auto;
 }
 
 ul {
