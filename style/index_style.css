@@ -37,8 +37,13 @@ body {
 
 ul {
     text-align: center;
-    margin: auto;
-    text-decoration: none;
+    padding: 0;
+    list-style: none;
+}
+
+ul li {
+    display: inline-block;
+    margin: 0 10px;
 }
 
 .nav-list a:hover {
