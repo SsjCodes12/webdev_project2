@@ -62,7 +62,7 @@ h1 {
     text-align: center;
 }
 
-#page-wrapper {
+.page-wrapper {
 width: 960px;
 margin: 0 auto;
 }
